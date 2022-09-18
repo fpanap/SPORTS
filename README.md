@@ -6,7 +6,7 @@
 > Instrutor: Mayk Brito<br>
 Projeto construído do evento Next Level Week da Rocketseat.
 
-[🔗 Clique aqui para acessar](http://fpanap.github.com.io/SPORTS)
+[🔗 Clique aqui para acessar]((https://heroic-centaur-0fc350.netlify.app/)
 
 
 ## 🛠 Tecnologias
